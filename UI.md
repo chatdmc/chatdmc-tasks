@@ -6,7 +6,7 @@ Implement a pixel-perfect UI design based on provided mockups. Focus on creating
 
 ## Design
 
-[!Design To be Replicated](/WhatsApp%20-%20Live%20Chat.png)
+[Design To be Replicated](/WhatsApp%20-%20Live%20Chat.png)
 
 ## Requirements
 
